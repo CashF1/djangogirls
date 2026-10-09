@@ -1,0 +1,22 @@
+body {
+    padding-left: 15px;
+}
+
+h1 a {
+    color: #FCA205;
+
+}
+
+h2 a {
+    color: #C25100;
+
+}
+
+.post {
+    margin-bottom: 50px;
+
+}
+
+.date{
+    color: #828282;
+}
